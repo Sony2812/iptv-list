@@ -1,0 +1,103 @@
+#EXTM3U
+
+# =========================
+# 🇦🇷 TV ARGENTINA
+# =========================
+#EXTINF:-1 group-title="TV ARGENTINA",TV Pública
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712719.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA",Telefe
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712714.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA",El Trece
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712710.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA",América TV
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712703.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA",Canal 9
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712708.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA",A24
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712701.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA",TN Noticias
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712717.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA",C5N
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712705.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA",Crónica TV
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712706.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA",La Nación+
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712712.m3u8
+
+
+# =========================
+# ⚽ ESPN
+# =========================
+#EXTINF:-1 group-title="ESPN",ESPN
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712743.m3u8
+
+#EXTINF:-1 group-title="ESPN",ESPN 2
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712744.m3u8
+
+#EXTINF:-1 group-title="ESPN",ESPN 3
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712745.m3u8
+
+#EXTINF:-1 group-title="ESPN",ESPN 4
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712746.m3u8
+
+#EXTINF:-1 group-title="ESPN",ESPN Premium
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712747.m3u8
+
+
+# =========================
+# ⚽ TYC SPORTS
+# =========================
+#EXTINF:-1 group-title="TYC SPORTS",TyC Sports
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712754.m3u8
+
+#EXTINF:-1 group-title="TYC SPORTS",TyC Sports Internacional
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/722820.m3u8
+
+
+# =========================
+# ⚽ TNT SPORTS
+# =========================
+#EXTINF:-1 group-title="TNT SPORTS",TNT Sports Premium
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712752.m3u8
+
+
+# =========================
+# ⚽ FOX SPORTS
+# =========================
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports Argentina
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712748.m3u8
+
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712749.m3u8
+
+#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712750.m3u8
+
+
+# =========================
+# 🌎 INTERNACIONALES
+# =========================
+#EXTINF:-1 group-title="INTERNACIONAL",TUDN
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592016.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL",beIN Sports Ñ
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592013.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL",Claro Sports
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592034.m3u8
+
+
+# =========================
+# ⭐ EVENTOS
+# =========================
+#EXTINF:-1 group-title="EVENTOS",Gran Hermano 24/7
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/749367.m3u8
