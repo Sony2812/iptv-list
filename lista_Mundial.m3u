@@ -1,0 +1,95 @@
+#EXTM3U
+
+# =========================
+# 🇦🇷 TV ARGENTINA
+# =========================
+
+#EXTINF:-1 group-title="TV ARGENTINA" tvg-logo="https://images.seeklogo.com/logo-png/46/1/tv-publica-argentina-2014-logo-png_seeklogo-462615.png",TV Pública
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712719.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA" tvg-logo="https://images.seeklogo.com/logo-png/30/1/telefe-ls84-tv-canal-11-logo-png_seeklogo-305456.png",Telefe
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712714.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA" tvg-logo="https://images.seeklogo.com/logo-png/2/1/canal-trece-argentina-logo-png_seeklogo-25582.png",El Trece
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712710.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA" tvg-logo="https://images.seeklogo.com/logo-png/46/1/america-tv-logo-png_seeklogo-463137.png",América TV
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712703.m3u8
+
+#EXTINF:-1 group-title="TV ARGENTINA" tvg-logo="https://images.seeklogo.com/logo-png/30/1/elnueve-ls83-tv-canal-9-logo-png_seeklogo-305001.png",Canal 9
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712708.m3u8
+
+
+# =========================
+# ⚽ ESPN
+# =========================
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png",ESPN
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712743.m3u8
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://images.seeklogo.com/logo-png/4/1/espn-2-logo-png_seeklogo-49202.png",ESPN 2
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712744.m3u8
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/ESPN3_logo.svg",ESPN 3
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712745.m3u8
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg",ESPN 4
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712746.m3u8
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png",ESPN Premium
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712747.m3u8
+
+
+# =========================
+# ⚽ TYCS SPORTS
+# =========================
+
+#EXTINF:-1 group-title="TYC SPORTS" tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp",TyC Sports
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712754.m3u8
+
+#EXTINF:-1 group-title="TYC SPORTS" tvg-logo="https://images.seeklogo.com/logo-png/34/1/tyc-sports-logo-png_seeklogo-340604.png",TyC Sports Internacional
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/722820.m3u8
+
+
+# =========================
+# ⚽ TNT SPORTS
+# =========================
+
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp",TNT Sports Premium
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712752.m3u8
+
+
+# =========================
+# ⚽ FOX SPORTS
+# =========================
+
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg",Fox Sports Argentina
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712748.m3u8
+
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png",Fox Sports 2
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712749.m3u8
+
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png",Fox Sports 3
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712750.m3u8
+
+
+# =========================
+# 🌎 INTERNACIONAL
+# =========================
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592016.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",beIN Sports Ñ
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592013.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://logowik.com/content/uploads/images/claro-sports3578.logowik.com.webp",Claro Sports
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592034.m3u8
+
+
+# =========================
+# ⭐ EVENTOS
+# =========================
+
+#EXTINF:-1 group-title="EVENTOS" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 24/7
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/749367.m3u8
