@@ -13,9 +13,6 @@ http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712714.m3u8
 #EXTINF:-1 group-title="TV ARGENTINA" tvg-id="telefe.ar" tvg-logo="https://images.seeklogo.com/logo-png/30/1/telefe-ls84-tv-canal-11-logo-png_seeklogo-305456.png",Telefe HD
 http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/11879.m3u8
 
-#EXTINF:-1 group-title="TV ARGENTINA" tvg-id="telefe.ar" tvg-logo="https://images.seeklogo.com/logo-png/30/1/telefe-ls84-tv-canal-11-logo-png_seeklogo-305456.png",Telefe HD ARG
-http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/16274.m3u8
-
 #EXTINF:-1 group-title="TV ARGENTINA" tvg-id="canal7.ar" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/11873442_1654041398142029_6872415678474122296_n.png",Canal 7 Jujuy
 http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/360498.m3u8
 
@@ -28,8 +25,6 @@ http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/11901.m3u8
 #EXTINF:-1 group-title="TV ARGENTINA" tvg-id="america.ar" tvg-logo="https://images.seeklogo.com/logo-png/46/1/america-tv-logo-png_seeklogo-463137.png",América TV
 http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712703.m3u8
 
-#EXTINF:-1 group-title="TV ARGENTINA" tvg-id="america.ar" tvg-logo="https://images.seeklogo.com/logo-png/46/1/america-tv-logo-png_seeklogo-463137.png",América SD
-http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/11866.m3u8
 
 #EXTINF:-1 group-title="TV ARGENTINA" tvg-id="canal9.ar" tvg-logo="https://images.seeklogo.com/logo-png/30/1/elnueve-ls83-tv-canal-9-logo-png_seeklogo-305001.png",Canal 9
 http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712708.m3u8
@@ -82,10 +77,8 @@ http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/722820.m3u8
 # ⚽ TNT SPORTS
 # =========================
 
-#EXTINF:-1 group-title="TNT SPORTS" tvg-id="tntsports.ar" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp",TNT Sports Premium
-http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712752.m3u8
 
-#EXTINF:-1 group-title="TNT SPORTS" tvg-id="tntsports.ar" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp",TNT Sports Premium HD
+#EXTINF:-1 group-title="TNT SPORTS" tvg-id="tntsports.ar" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp",TNT Sports Premium
 http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/327919.m3u8
 
 
@@ -99,14 +92,16 @@ http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712748.m3u8
 #EXTINF:-1 group-title="FOX SPORTS" tvg-id="foxsports2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg",Fox Sports 2
 http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712749.m3u8
 
-#EXTINF:-1 group-title="FOX SPORTS" tvg-id="foxsports3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png",Fox Sports 3
+#EXTINF:-1 group-title="FOX SPORTS" tvg-id="foxsports3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png/revision/latest/scale-to-width-down/1000?cb=20230305145044&path-prefix=es",Fox Sports 3
 http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712750.m3u8
 
-#EXTINF:-1 group-title="FOX SPORTS" tvg-id="foxsports.premium.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/FoxSportsPremium2017Ar.png",Fox Sports Premiums
+#EXTINF:-1 group-title="FOX SPORTS" tvg-id="foxsports.premium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_(Argentina)_-_2018_logo.png",Fox Sports Premiums
 http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167737.m3u8
 
-#EXTINF:-1 group-title="FOX SPORTS" tvg-id="foxsports.premium.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/FoxSportsPremium2017Ar.png",Fox Sports Premiums HD
+#EXTINF:-1 group-title="FOX SPORTS" tvg-id="foxsports.premium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_(Argentina)_-_2018_logo.png",Fox Sports Premiums HD
 http://starlatino.tv:8880/live/DigitalService149m/12762683/167737.m3u8
+
+
 # =========================
 # ⚽ DIRECTV SPORTS
 # =========================
@@ -114,11 +109,8 @@ http://starlatino.tv:8880/live/DigitalService149m/12762683/167737.m3u8
 #EXTINF:-1 group-title="DIRECTV SPORTS" tvg-id="DirectvSports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS
 http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167731.m3u8
 
-#EXTINF:-1 group-title="DIRECTV SPORTS" tvg-id="DirectvSportsSD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS SD
+#EXTINF:-1 group-title="DIRECTV SPORTS" tvg-id="DirectvSportsSD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS HD
 http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/526169.m3u8
-
-#EXTINF:-1 group-title="DIRECTV SPORTS" tvg-id="DirectvSports2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS 2
-http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167733.m3u8
 
 #EXTINF:-1 group-title="DIRECTV SPORTS" tvg-id="DirectvSportsPlus" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS +
 http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167732.m3u8
@@ -129,14 +121,6 @@ http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/12739.m3u8
 #EXTINF:-1 group-title="DIRECTV SPORTS" tvg-id="DirectvSportsHD2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS 2 HD
 http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/12042.m3u8
 
-#EXTINF:-1 group-title="DIRECTV SPORTS" tvg-id="DirectvSportsPlusHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS + HD
-http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/12738.m3u8
-
-#EXTINF:-1 group-title="DIRECTV SPORTS" tvg-id="DirectvSportsSDPlus" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS + SD
-http://starlatino.tv:8880/live/DigitalService149m/12762683/167731.m3u8
-
-#EXTINF:-1 group-title="DIRECTV SPORTS" tvg-id="DirectvSportsPlusAD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS + AD
-http://starlatino.tv:8880/live/DigitalService149m/12762683/167732.m3u8
 
 # =========================
 # 🌎 INTERNACIONAL
@@ -151,17 +135,9 @@ http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592013.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ClaroSports" tvg-logo="https://logowik.com/content/uploads/images/claro-sports3578.logowik.com.webp",Claro Sports
 http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592034.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="WinSports" tvg-logo="https://seeklogo.com/images/W/win-sport-logo-CCEF374ECF-seeklogo.com.png",Win Sports
-http://starlatino.tv:8880/live/DigitalService149m/12762683/167739.m3u8
-
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="F1TV" tvg-logo="https://www.actualidadmotor.com/wp-content/uploads/2023/12/logo-f1.jpg",F1
 http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167742.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="GolTV" tvg-logo="https://1.bp.blogspot.com/-i7OFyq2sZ9U/UZ6cF-nuidI/AAAAAAAAANw/5a-7j5Fbcas/s1600/goltvlat.jpg",Gol TV
-http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167741.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FUTSports" tvg-logo="https://c8.alamy.com/comp/2S0294D/fut-letter-logo-design-for-technology-company-fut-logo-design-black-and-white-color-combination-fut-logo-fut-vector-fut-design-fut-icon-fut-alph-2S0294D.jpg",FUT SPORTS
-http://starlatino.tv:8880/live/DigitalService149m/12762683/327919.m3u8
 
 # =========================
 # ⭐ Gran Hermano
@@ -172,9 +148,3 @@ http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/749367.m3u8
 
 #EXTINF:-1 group-title="EVENTOS" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 1
 http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/116384.m3u8
-
-#EXTINF:-1 group-title="EVENTOS" tvg-id="GranHermano2" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 2
-http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/11861.m3u8
-
-#EXTINF:-1 group-title="EVENTOS" tvg-id="GranHermano3" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 3
-http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/116603.m3u8
