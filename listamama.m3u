@@ -1,0 +1,1126 @@
+#EXTM3U
+
+# =========================
+# ⭐ Canales
+# =========================
+
+#EXTINF:-1 group-title="⭐️ CANALES" tvg-id="tvpublica.ar" tvg-logo="https://images.seeklogo.com/logo-png/46/1/tv-publica-argentina-2014-logo-png_seeklogo-462615.png",TV Pública
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712719.m3u8
+#EXTINF:-1 group-title="⭐️ CANALES" tvg-id="telefe.ar" tvg-logo="https://images.seeklogo.com/logo-png/30/1/telefe-ls84-tv-canal-11-logo-png_seeklogo-305456.png",Telefe
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712714.m3u8
+#EXTINF:-1 group-title="⭐️ CANALES" tvg-id="telefe.ar" tvg-logo="https://images.seeklogo.com/logo-png/30/1/telefe-ls84-tv-canal-11-logo-png_seeklogo-305456.png",Telefe HD
+http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/11879.m3u8
+#EXTINF:-1 group-title="⭐️ CANALES" tvg-id="canal7.ar" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/11873442_1654041398142029_6872415678474122296_n.png",Canal 7 Jujuy
+http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/360498.m3u8
+#EXTINF:-1 group-title="⭐️ CANALES" tvg-id="canal7.ar" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/11873442_1654041398142029_6872415678474122296_n.png",Canal 7 Jujuy HD
+http://starlatino.tv:8880/live/DigitalService149m/12762683/360498.m3u8
+#EXTINF:-1 group-title="⭐️ CANALES" tvg-id="eltrece.ar" tvg-logo="https://images.seeklogo.com/logo-png/2/1/canal-trece-argentina-logo-png_seeklogo-25582.png",El Trece
+http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/11901.m3u8
+#EXTINF:-1 group-title="⭐️ CANALES" tvg-id="america.ar" tvg-logo="https://images.seeklogo.com/logo-png/46/1/america-tv-logo-png_seeklogo-463137.png",América TV
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712703.m3u8
+#EXTINF:-1 group-title="⭐️ CANALES" tvg-id="canal9.ar" tvg-logo="https://images.seeklogo.com/logo-png/30/1/elnueve-ls83-tv-canal-9-logo-png_seeklogo-305001.png",Canal 9
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712708.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NIÑOS | DISCOVERY KIDS  HD
+http://mundo2.vip/live/OmarP/Omar2019/132701.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NIÑOS | DISNEY CHANNEL HD
+http://mundo2.vip/live/OmarP/Omar2019/132699.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NIÑOS | DISNEY JR HD
+http://mundo2.vip/live/OmarP/Omar2019/132697.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NIÑOS | BABY TV SD
+http://mundo2.vip/live/OmarP/Omar2019/132690.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NIÑOS | NICKELODEON HD
+http://mundo2.vip/live/OmarP/Omar2019/132711.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NIÑOS | PLiM PLiM
+http://mundo2.vip/live/OmarP/Omar2019/132712.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NIÑOS | NICK JR SD
+http://mundo2.vip/live/OmarP/Omar2019/132696.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NIÑOS | CARTOON NETWORK HD
+http://mundo2.vip/live/OmarP/Omar2019/132707.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NIÑOS | CARTOONITO SD
+http://mundo2.vip/live/OmarP/Omar2019/132708.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Baby First *
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13847.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Baby First **
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13848.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Baby TV
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/3305.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Cartoon Network
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/3307.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Cartoon Network *
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/14935.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Cartoon Network Full HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/9528.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Cartoon Network HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/9529.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Cartoonito
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/9029.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Cartoonito Full HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/245.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Cartoonito HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/5851.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Discovery Kids
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/104.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Discovery Kids *
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13493.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Discovery Kids Full HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/9028.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Discovery Kids Full HD *
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/124.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Discovery Kids HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/266.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Disney Jr HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/8986.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13841.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick **
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13845.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick Full HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/3310.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick Full HD *
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13843.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick HD *
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13842.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick Jr
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13838.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick Jr *
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13839.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick Jr **
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/95.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick Jr Full HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/6038.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick Jr Full HD *
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13840.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick Jr Full HD **
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13836.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Nick Jr HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13837.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TeenNick
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/137.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TeenNick Full HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/96.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AR-| ARGENTINISIMA HD
+http://mundo2.vip/live/OmarP/Omar2019/81318.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AR | C5N FHD
+http://mundo2.vip/live/OmarP/Omar2019/81273.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AR | Telemax sd
+http://mundo2.vip/live/OmarP/Omar2019/81288.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AR-| EL GARAGE TV HD
+http://mundo2.vip/live/OmarP/Omar2019/81322.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AR | NOTICIAS TN SD
+http://mundo2.vip/live/OmarP/Omar2019/81325.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AR | CANAL 26 NOTICIAS HD
+http://mundo2.vip/live/OmarP/Omar2019/81310.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AR | NET TV HD 
+http://mundo2.vip/live/OmarP/Omar2019/305968.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", LAS ESTRELLAS
+http://mundo2.vip/live/OmarP/Omar2019/317507.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NETFLIX FHD
+http://mundo2.vip/live/OmarP/Omar2019/317032.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", PARAMOUNT+ FHD
+http://mundo2.vip/live/OmarP/Omar2019/317033.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CINEMA VIP 01 FHD
+http://mundo2.vip/live/OmarP/Omar2019/317035.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CINEMA VIP 05 FHD
+http://mundo2.vip/live/OmarP/Omar2019/317039.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", PARAMOUNT+ FHD
+http://mundo2.vip/live/OmarP/Omar2019/317042.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CINEMA VIP 09 FHD
+http://mundo2.vip/live/OmarP/Omar2019/317043.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CINEMA VIP 12 FHD
+http://mundo2.vip/live/OmarP/Omar2019/317046.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | La Que No Podia Amar
+http://mundo2.vip/live/OmarP/Omar2019/374881.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | La Fea Mas Bella
+http://mundo2.vip/live/OmarP/Omar2019/374882.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Amor Real
+http://mundo2.vip/live/OmarP/Omar2019/374883.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Amor Bravio
+http://mundo2.vip/live/OmarP/Omar2019/374884.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Mi Corazon es Tuyo
+http://mundo2.vip/live/OmarP/Omar2019/374885.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Teresa
+http://mundo2.vip/live/OmarP/Omar2019/374886.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Triunfo del Amor
+http://mundo2.vip/live/OmarP/Omar2019/374887.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Rebelde
+http://mundo2.vip/live/OmarP/Omar2019/374888.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Nosotros Los Guapos
+http://mundo2.vip/live/OmarP/Omar2019/374889.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | La Rosa de Guadalupe
+http://mundo2.vip/live/OmarP/Omar2019/374890.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Las 3 Marias
+http://mundo2.vip/live/OmarP/Omar2019/374891.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Angelique
+http://mundo2.vip/live/OmarP/Omar2019/374892.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Risa Picante
+http://mundo2.vip/live/OmarP/Omar2019/374893.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Amor Real
+http://mundo2.vip/live/OmarP/Omar2019/374894.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Las Estrellas
+http://mundo2.vip/live/OmarP/Omar2019/374895.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Lo que la vida me robo
+http://mundo2.vip/live/OmarP/Omar2019/374896.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | 40 Y 20
+http://mundo2.vip/live/OmarP/Omar2019/374897.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VIX Premium | Guerra de Chistes
+http://mundo2.vip/live/OmarP/Omar2019/374898.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", STAR Channel FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/316360.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Star Channel FHD |opc-4|
+http://mundo2.vip/live/OmarP/Omar2019/316362.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Warner TV FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/316370.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AXN FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/316363.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AXN FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/316364.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Calle 13 FHD |opc-3|
+http://mundo2.vip/live/OmarP/Omar2019/316374.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Syfy FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/316376.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Comedy Central FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/316380.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", A3 Series FHD
+http://mundo2.vip/live/OmarP/Omar2019/316357.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", A3 Series
+http://mundo2.vip/live/OmarP/Omar2019/316358.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Cosmo FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/316385.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Warner TV FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/316369.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Cosmo FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/316384.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", A3SERIES HD
+http://mundo2.vip/live/OmarP/Omar2019/110059.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Estrenos FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315718.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Hits FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315722.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Clasicos FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/315727.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Acción FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315729.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Acción FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/315730.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Comedia FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315732.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Comedia FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/315733.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Drama FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315736.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Drama FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/315737.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Indie FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315740.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+Cine Español FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/315745.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+ Skyshowtime |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315748.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", En Familia |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315755.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", A3 Series FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315757.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", A3 Series HD
+http://mundo2.vip/live/OmarP/Omar2019/315758.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AMC FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315759.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AMC FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/315760.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AXN FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315762.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AXN FHD |opc-3|
+http://mundo2.vip/live/OmarP/Omar2019/315764.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AXN Movies FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315765.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Calle 13 FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315767.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Calle 13 FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/315768.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Dark FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315771.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Hollywood FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315773.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", STAR Channel FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315776.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", STAR Channel FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/315777.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Star Channel HD
+http://mundo2.vip/live/OmarP/Omar2019/315779.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Warner TV FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315780.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Warner TV FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/315781.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Syfy FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315784.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TCM FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315792.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Somos FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315795.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Somos FHD |opc-2|
+http://mundo2.vip/live/OmarP/Omar2019/315796.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", Sundance FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315797.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+E: Demi Moore
+http://mundo2.vip/live/OmarP/Omar2019/315714.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", M+LOS GOYA FHD |opc-1|
+http://mundo2.vip/live/OmarP/Omar2019/315715.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AGRO TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317490.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AMC
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317491.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AMERICA TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317492.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", ANTENA 1
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317493.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", ANTENA 3
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317494.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", ARUSSA TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317495.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", ATV SUR
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317496.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AXN
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317497.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CINEMA INOLVIDABLE
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317498.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CORAZON
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317499.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AZ INTERNACIONAL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317500.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", BANDAMAX
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317501.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", BELLA ABANQUINA
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317502.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", BETHEL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317503.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", BHTV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317504.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", BITME
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317505.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", BITT TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317506.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", LAS ESTRELLAS
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317507.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CINECANAL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317508.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CINE FAMILIAR
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317509.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CINE HISPANO HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317510.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CANAL INFANTIL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317511.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CINE PREMIUM HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317512.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CONECTA2 TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317513.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CTV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317514.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", CLOVER CHANNEL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317515.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", DE PELICULA
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317516.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", DISTRITO COMEDIA
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317517.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", DREAMWORKS
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317518.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", DUNAS TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317519.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", DW
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317520.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", ENLACE
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317521.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", EVENTOS
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317523.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", EWTN
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317524.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", FILMS & ARTS
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317525.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", FOLKLORE TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317526.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", FX
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317527.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", GOLDEN EDGE
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317528.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", GOLDEN LATINO
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317529.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", GTV PISCO
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317530.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", IPE
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317531.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", JN19
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317532.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", JUNTOSTV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317533.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", JUSTICIA TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317534.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", KANAL D
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317535.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", LA TELE
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317536.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", LATINA NOTICIAS
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317537.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", LIKE TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317538.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", MIMÚSICA HITS
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317540.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", MI MUSICA K-POP
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317541.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", MI MUSICA PERU
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317542.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", MIMUSICA ROMANTICA
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317543.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NATIVA
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317544.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NEOTV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317545.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", NOTICIAS CARACOL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317546.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", OVACION
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317547.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", PASIONES
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317548.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", PBO
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317549.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", PLIM PLIM
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317550.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", QOSMO TELEVISIÓN
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317551.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", RADIO SUPER HITS
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317552.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", RCR
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317553.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", SONY MOVIES
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317554.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", STUDIO UNIVERSAL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317555.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", SUMAC TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317556.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TARAPOTO TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317557.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TELEHIT LATINO
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317558.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TELEHIT MUSICA
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317559.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TELEMUNDO
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317560.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TOPLATINO
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317561.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", EL TRECE INTERNACIONAL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317562.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TRIVU TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317563.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TVL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317564.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", TV + CHINCHA
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317565.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", USA
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317566.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", USMP TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317567.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", VÍA TELEVISIÓN
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317568.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", ZOOMOO
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317569.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ CANALES", AMC SERlES
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317539.m3u8
+
+
+# =========================
+# ⭐ TELENOVELAS
+# =========================
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | A3S
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135427.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | AZ CORAZON
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135429.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | Canal 5
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135430.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | Canal De Las Estrellas
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135431.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | Glitz
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135432.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | Pasiones
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135435.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | TLNovelas
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135436.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TL Novelas Univision
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135439.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TELENOVELAS HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360898.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TLNOVELAS HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360896.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TL NOVELAS HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360905.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TELENOVELAS HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93368.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", RCN TELENOVELAS HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360902.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", RCN NOVELAS HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/100288.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TNT NOVELAS
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360894.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TNT NOVELAS HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/99829.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TNT NOVELAS HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360893.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", KANAL D Drama HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360895.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", KANAL D Novelas HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360897.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", PASIONES HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360891.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", PASIONES HD.
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360892.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Telenovelas Unv* HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360903.m3u8
+
+
+# =========================
+# ⚽ Deportes
+# =========================
+
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="espn.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ESPN_logo.png/960px-ESPN_logo.png",ESPN
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712743.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="espn.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ESPN_logo.png/960px-ESPN_logo.png",ESPN
+http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/11851.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="espn2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",ESPN 2
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712744.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="espn3.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/ESPN3_logo.svg",ESPN 3
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712745.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="espn4.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg",ESPN 4
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712746.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="espn5.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg",ESPN 5
+http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/17719.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="espn6.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png",ESPN 6
+http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/418592.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="espn7.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png",ESPN 7
+http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/418593.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="espnpremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/960px-ESPN_Premium_logo.png",ESPN Premium
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712747.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="tyc.ar" tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp",TyC Sports
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712754.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="tyc.int.ar" tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp",TyC Sports Internacional
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/722820.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="tntsports.ar" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp",TNT Sports Premium
+http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/327919.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="foxsports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg",Fox Sports
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712748.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="foxsports2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg",Fox Sports 2
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712749.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="foxsports3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png/revision/latest/scale-to-width-down/1000?cb=20230305145044&path-prefix=es",Fox Sports 3
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712750.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="foxsports.premium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_(Argentina)_-_2018_logo.png",Fox Sports Premiums
+http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167737.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="foxsports.premium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_(Argentina)_-_2018_logo.png",Fox Sports Premiums HD
+http://starlatino.tv:8880/live/DigitalService149m/12762683/167737.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="DirectvSports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS
+http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167731.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="DirectvSportsSD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS HD
+http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/526169.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="DirectvSportsPlus" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS +
+http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167732.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="DirectvSportsHD1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS 1 HD
+http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/12739.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="DirectvSportsHD2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DIRECTV SPORTS 2 HD
+http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/12042.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="TUDN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592016.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="BeINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",beIN Sports Ñ
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592013.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="ClaroSports" tvg-logo="https://logowik.com/content/uploads/images/claro-sports3578.logowik.com.webp",Claro Sports
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/592034.m3u8
+#EXTINF:-1 group-title="⭐️ DEPORTES" tvg-id="F1TV" tvg-logo="https://www.actualidadmotor.com/wp-content/uploads/2023/12/logo-f1.jpg",F1
+http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167742.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | Espn Deportes | HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360915.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | ESPN 4 | MX
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360917.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | DTV Sports CHILE
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360918.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | Tigo Sports Panama
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360920.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | Golf Channel AR
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360923.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | Zona TUDN Mex
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360924.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | PX Sports HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360925.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | ESPN 4 CL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360927.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | ESPN 4 ARG
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360928.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | Fox Sports Premium | MX
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360930.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Fox Sports | ARG
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360931.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | DTV SPORTS 2
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360939.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | DTV SPORTS +
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360940.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn Deportes
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360941.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | DTV SPORTS
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360943.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | Fox Sports 3 | COL HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360944.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | Fox Sports 2 | COL HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360945.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | Espn 3 | COL HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360946.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | Espn 2 | COL HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360947.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| FOX Sports Premium Arg
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360952.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Sprtv 3
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360955.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Sprtv 2
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360957.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Fox Sports 2 | CL HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360962.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Fox Sports | CL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360963.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Fox Sports 2 | ARG
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360965.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn 2 | COL
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360969.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn 3 | ARG
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360970.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn 2 | ARG
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360972.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn 2 | ARG HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360973.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| beIN Sports en Espa09ol
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360978.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| TyC Sports Internacional HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360979.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| TUDN MX HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360981.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Fox Sports | MX HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360982.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Tigo Sports Paraguay HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360988.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn 3 | MX HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360992.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn 2 | MX HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360993.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn | MX HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360994.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | OneToros
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360998.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | OneToros
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/360999.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Fox Sports | ARG HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361002.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Fox Sports 3 | ARG
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361004.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Fox Sports 2 | ARG HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361005.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Fox Sports 2 | MX HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361006.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| NBC Golf
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361007.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Fox Sports 3 | MX
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361008.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn Plus | MX HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361010.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn 3 | MX
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361011.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn | MX
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361012.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Espn 2 | MX
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361013.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| Barca TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361015.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D| FOX Sports Premium Arg HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361018.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | ESPN 4
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361020.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | ESPN 5
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361021.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | ESPN 6
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/361022.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐️ DEPORTES", D | ESPN 7
+
+
+# =========================
+# ⭐ Gran Hermano
+# =========================
+
+#EXTINF:-1 group-title="⭐ Gran Hermano" tvg-id="GranHermano247" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 24/7
+http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/749367.m3u8
+#EXTINF:-1 group-title="⭐ Gran Hermano" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 1
+http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/116384.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", GRAN HERMANO CAM 1
+http://mundo2.vip/live/OmarP/Omar2019/454927.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", GRAN HERMANO CAM 2 [0ndeman]
+http://mundo2.vip/live/OmarP/Omar2019/454928.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", GRAN HERMANO CAM 3 [0ndemand]
+http://mundo2.vip/live/OmarP/Omar2019/454929.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", ☀️ºL∆ ©∆S∆ D€ L0S F∆M0S0S ©0L ²
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/451801.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", ☀️L∆ ©∆S∆ D€ L0S F∆M0S0S ©0L ³
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/451804.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", ⭐ºL∆ Ç∆S∆ D€ L0S ºF∆M0S0$ ©0L habitacion
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/451807.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", ⭐☀️©∆S∆ D€ ºF∆M0S0S C0L (⁴
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/451836.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", ⭐'L∆ ©∆S∆ D€ *F∆M0S0$ US∆ VIP( ¹)
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/376382.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", ⚡*L∆ C∆S∆ D€ *F∆M0S0S US∆ VlP ²
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/376351.m3u8
+
+
+# =========================
+# ⭐ 24/07
+# =========================
+
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 ll EL CHAVO DEL OCHO
+http://mundo2.vip/live/OmarP/Omar2019/316936.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Accion
+http://mundo2.vip/live/OmarP/Omar2019/317104.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Aventura
+http://mundo2.vip/live/OmarP/Omar2019/317108.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Drama
+http://mundo2.vip/live/OmarP/Omar2019/317122.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Jurassic Park
+http://mundo2.vip/live/OmarP/Omar2019/317132.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Karate Kid
+http://mundo2.vip/live/OmarP/Omar2019/317133.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Los Juegos del Hambre
+http://mundo2.vip/live/OmarP/Omar2019/317136.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | MARVEL
+http://mundo2.vip/live/OmarP/Omar2019/317137.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Piratas del caribe
+http://mundo2.vip/live/OmarP/Omar2019/317144.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Rapido y furioso
+http://mundo2.vip/live/OmarP/Omar2019/317146.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Rocky
+http://mundo2.vip/live/OmarP/Omar2019/317147.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Romance
+http://mundo2.vip/live/OmarP/Omar2019/317148.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Shrek
+http://mundo2.vip/live/OmarP/Omar2019/317150.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Spiderman
+http://mundo2.vip/live/OmarP/Omar2019/317151.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Star Wars
+http://mundo2.vip/live/OmarP/Omar2019/317152.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Superheroes
+http://mundo2.vip/live/OmarP/Omar2019/317153.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Suspenso
+http://mundo2.vip/live/OmarP/Omar2019/317154.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Terror
+http://mundo2.vip/live/OmarP/Omar2019/317155.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Documentary Movies
+http://mundo2.vip/live/OmarP/Omar2019/317088.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Drama Movies
+http://mundo2.vip/live/OmarP/Omar2019/317089.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Dreamworks Movies (ENG)
+http://mundo2.vip/live/OmarP/Omar2019/317090.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Family Movies
+http://mundo2.vip/live/OmarP/Omar2019/317091.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Harry Potter Movies
+http://mundo2.vip/live/OmarP/Omar2019/317093.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Science Fiction Movies
+http://mundo2.vip/live/OmarP/Omar2019/317101.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 | Suspense Movies
+http://mundo2.vip/live/OmarP/Omar2019/317102.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Dragon Ball Heroes
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526331.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - El Chavo Animado
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526339.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - El Chavo del 8
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526348.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - El Señor de los Cielos - Temporada 8
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526349.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Rapido y Furioso (6-10)
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526361.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 La casa del dragon (Temp 1)
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526362.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Marvel 1
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526363.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Marvel 2
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526364.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Marvel 3
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526365.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Marvel 4
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526366.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Marvel 5
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526367.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Harry Potter
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526369.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Chucky
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526370.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Destino Final
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526371.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Duro de matar
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526375.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los simpson 1-7
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526376.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los Simpson 8-14
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526377.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los Simpson 15-21
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526378.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los Simpson 22-28
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526379.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los Simpson 29-34
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526380.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 The Last Of Us
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526381.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Ben 10
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526382.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Alf
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526383.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 La casa de Mickey Mouse
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526384.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Art Attack 2000
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526387.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Art Attack
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526388.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los Simpsons - Treehouse of Horror
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526398.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Dragon Ball 1 al 76
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526403.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Dragon Ball 77 al 153
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526404.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Dragon Ball Z - Saga Saiyajin
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526405.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Dragon Ball Z - Saga Namek
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526406.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Dragon Ball Z - Saga de Garlic
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526407.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Dragon Ball Z - Arco de los Androides
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526408.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Dragon Ball Z - Saga de Cell
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526409.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Dragon Ball Z - Torneo de Cell
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526410.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Dragon Ball Z - Saga De Majin Boo
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526411.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Caso Cerrado (parte 1)
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526418.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Caso Cerrado (parte 2)
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526419.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Rocky
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526420.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Rambo
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526421.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Princesas Disney
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526422.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Barbie
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526423.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Attack On Titan (parte 1)
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526424.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 - Dragon Ball Daima
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526447.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Caballeros del Zodiaco 01
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526474.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 One Piece (2023)
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526497.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 POKEMON 03 - 05 TEMPORADAS
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526498.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 La Hechizada
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526499.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Adam Sandler
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526500.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Doramas 01
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526501.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Doramas 02
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526502.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Jackie Chan
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526503.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Chapulin Colorado 01
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526504.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Chapulin Colorado 02
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526505.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Masha y el Oso
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526514.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Inspector Gadget
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526515.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Pantera Rosa
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526516.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Peliculas Dragon Ball
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526517.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Porky
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526518.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Pinky y Cerebro
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526519.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Naruto Temporada  1-3
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526520.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Naruto Temporada 4-5
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526521.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Spider-Man  1967
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526522.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Tortugas Ninja
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526523.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Caballeros del Zodiaco 02
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526524.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Malcom Temporada 1-4
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526536.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Malcom Temporada 5-7
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526537.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Luis Miguel La Serie
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526538.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 La reina del Flow T01
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526549.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 La reina del Flow T02
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526550.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Digimon
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526566.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Juego de tronos
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/526567.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 ALF
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/271.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 Avatar: la leyenda de Aang
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/272.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 Avatar: la leyenda de Korra
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/273.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 Ben 10
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/274.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 Bewitched Hechizada
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/276.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 Bob Esponja
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/14904.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 Caso Cerrado HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/280.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 Cat-Dog
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/282.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 Dr. House
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/287.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 Dragon Ball Super HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/288.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 El chavo del 8
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/291.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 El Príncipe del Rap
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/294.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Futurama HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/297.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los locos Addams
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/302.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 La Familia Monster
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/303.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 La pantera rosa
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/304.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los 3 Chiflados
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/306.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los Simpson HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/307.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los Simpson T1
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13723.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los Simpson T2
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13724.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/07 Los Simpson T3
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13725.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los Simpson T4
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/13726.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Los Supersonicos
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/310.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Malcolm HD
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/311.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Mi Bella Genio
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/312.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Pinky y Cerebro
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/313.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 The Big Bang Theory
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/314.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 24/7 Thundercats
+http://live.stablechannels.tv/live/sqrizoqi/0l6l6Nx4Yv/315.m3u8
+
+
+# =========================
+# ⭐ Gran Hermano
+# =========================
+
+
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", TOP LATlN0
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93110.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Colosal TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93112.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MOLA TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93113.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", FARRA PLAY
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93119.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 88 STEREO
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93129.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", CADENA ELITE
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93130.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", ALEGRIA TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93131.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", RUIDOS TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93134.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", TV POP MUSIC∆
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93098.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Vevo Pop
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93081.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Vevo Country
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93083.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Karaoke por Stingray
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93060.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MTV Spankin' New
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93063.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MTV Music Made in Spain
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93069.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Qwest Jazz&Beyond
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93070.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MTV En Vivo
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93072.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Live Music Replay
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93073.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MTV en español
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93075.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Qello Concerts
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93071.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Ocko Star
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93127.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", RADIO U
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93125.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Vevo Reggaetón & Trap
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93086.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Vevo '70s
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93085.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MTV Biggest Pop
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93062.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", VH1 Classics
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93306.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", CMT Equal Play
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93087.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", OXIGENO TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93143.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", 38 TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93121.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", XITE
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93108.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", STINGRAY CLASSICA
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93100.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", TERRAMIA TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93093.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Classica
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93088.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MU: Telehit Plus
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/115634.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", LA MEGA MUSICAL TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/115610.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Vevo Latino
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93082.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Vevo '80s
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93089.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", PORTALFOXMIX
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93099.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", HTV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/115614.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MU: MTV HD
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/115637.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", V2BEAT
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93107.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Video Tour Channel  | CR
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/115631.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Clubbing TV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93065.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MX: MTV Hits
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/86096.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MTV 00's
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/60103.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MTV 90's
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93080.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MX: Bandamax
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/86098.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MTV LIVE HITs [HD]
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/115602.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MX: MTV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/86095.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", TELEHIT MÚSICA 
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/60101.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Vallenato Internacional
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93124.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Tropical Cumbia tv 
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/115647.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", VH1
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/115633.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", US: VH1 CLASSIC
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/134435.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", MTV CLASSICS
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/87913.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Conciertos por Stingray
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93059.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", VH1 Classic
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/69032.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ 24/07", Yo! MTV
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/93076.m3u8
+
+
+
+
+
+
+
+
+# --- VOD ---
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", El choque (2026) (D)
+http://mundo2.vip/movie/OmarP/Omar2019/540029.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", La casaca de Dios (2026) (D)
+http://mundo2.vip/movie/OmarP/Omar2019/540023.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Scary Movie: Terroríficamente incorrecta (2026)
+http://mundo2.vip/movie/OmarP/Omar2019/539942.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Amanda Knox: En la boca del lobo (2026) | SubEspañol
+http://mundo2.vip/movie/OmarP/Omar2019/539592.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", La furia de Becky (2023) (D)
+http://mundo2.vip/movie/OmarP/Omar2019/539586.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Ídolos (2026) | Castellano
+http://mundo2.vip/movie/OmarP/Omar2019/539318.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Psycho Killer (2026)
+http://mundo2.vip/movie/OmarP/Omar2019/539315.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Ven a volar conmigo (2026)
+http://mundo2.vip/movie/OmarP/Omar2019/538778.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", El Mago Del Kremlin (2026)
+http://mundo2.vip/movie/OmarP/Omar2019/538775.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Instinto Implacable (2026)
+http://mundo2.vip/movie/OmarP/Omar2019/538772.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Rebelion En La Granja (2026)
+http://mundo2.vip/movie/OmarP/Omar2019/538267.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Oso Sangriento: La Noche del Terror (2026)
+http://mundo2.vip/movie/OmarP/Omar2019/538111.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Honey Bunch (2026)
+http://mundo2.vip/movie/OmarP/Omar2019/538108.mp4
+#EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Las damas primero (2026)
+http://mundo2.vip/movie/OmarP/Omar2019/537797.mp4
