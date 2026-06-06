@@ -570,24 +570,25 @@ http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439646.m3u8
 http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439647.m3u8
 
 
+
 # =========================
 # ⭐ Gran Hermano
 # =========================
 
-#EXTINF:-1 group-title="EVENTOS" tvg-id="GranHermano247" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 24/7
+#EXTINF:-1 group-title="⭐ Gran Hermano" tvg-id="GranHermano247" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 24/7
 http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/749367.m3u8
 
-#EXTINF:-1 group-title="EVENTOS" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 1
+#EXTINF:-1 group-title="⭐ Gran Hermano" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 1
 http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/116384.m3u8
 
-#EXTINF:-1 group-title="EVENTOS" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano CAM 1
+#EXTINF:-1 group-title="⭐ Gran Hermano" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano CAM 1
 http://mundo2.vip/live/OmarP/Omar2019/454927.m3u8
 
-#EXTINF:-1 group-title="EVENTOS" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano CAM 2
+#EXTINF:-1 group-title="⭐ Gran Hermano" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano CAM 2
 http://mundo2.vip/live/OmarP/Omar2019/454928.m3u8
 
-#EXTINF:-1 group-title="EVENTOS" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano CAM 3
+#EXTINF:-1 group-title="⭐ Gran Hermano" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano CAM 3
 http://mundo2.vip/live/OmarP/Omar2019/454929.m3u8
 
-#EXTINF:-1 group-title="EVENTOS" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano MultiCAM
+#EXTINF:-1 group-title="⭐ Gran Hermano" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano MultiCAM
 http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/822688.m3u8
