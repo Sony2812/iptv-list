@@ -13,6 +13,9 @@ http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712714.m3u8
 #EXTINF:-1 group-title="TV ARGENTINA" tvg-id="telefe.ar" tvg-logo="https://images.seeklogo.com/logo-png/30/1/telefe-ls84-tv-canal-11-logo-png_seeklogo-305456.png",Telefe HD
 http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/11879.m3u8
 
+#EXTINF:-1 group-title="TV ARGENTINA" tvg-id="telefe.ar" tvg-logo="https://images.seeklogo.com/logo-png/30/1/telefe-ls84-tv-canal-11-logo-png_seeklogo-305456.png",Telefe 1
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1780763615~exp=1780770815~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=08585df5b5db3c4c3bf8599a1fdf90f2acb6ad7f408ab3e31721caa8f7393841
+
 #EXTINF:-1 group-title="TV ARGENTINA" tvg-id="canal7.ar" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/11873442_1654041398142029_6872415678474122296_n.png",Canal 7 Jujuy
 http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/360498.m3u8
 
@@ -28,6 +31,170 @@ http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712703.m3u8
 
 #EXTINF:-1 group-title="TV ARGENTINA" tvg-id="canal9.ar" tvg-logo="https://images.seeklogo.com/logo-png/30/1/elnueve-ls83-tv-canal-9-logo-png_seeklogo-305001.png",Canal 9
 http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712708.m3u8
+
+
+
+T0Aocd2VsZ9q4snepw1DDjKWkONDVBIlrbeJn_qSvRySoMZz65thlke9-l1XI5AVlq7qVck_CdrcXTMWudp-dOtq4WsfqVq1Yp73PiJ4/s1600/c5n.jpg",C5N
+http://mundo2.vip/live/OmarP/Omar2019/81273.m3u8
+
+#EXTINF:-1 group-title="⭐ TV Argentina" tvg-id="tn.ar"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s223/tn.png",TN
+http://mundo2.vip/live/OmarP/Omar2019/81325.m3u8
+
+#EXTINF:-1 group-title="⭐ TV Argentina" tvg-id="canal26.ar"tvg-logo="https://images.seeklogo.com/logo-png/46/2/canal-26-logo-png_seeklogo-463133.png",Canal 26 Noticias
+http://mundo2.vip/live/OmarP/Omar2019/81310.m3u8
+
+#EXTINF:-1 group-title="⭐ TV Argentina" tvg-id="argentinisima.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhsN1pf3l44x7LbOWFp5VT4AUq_Ke5qT6N_uC71RLvzjDXAtCyXfLx8Z7F8M7h-q_Uq6rW6c2R8VD4cbYcufpV3nHv_OYxkorSLdwLuDWJpwSq0sfU6dwc5HUeELRB1dM8-tYCSWxPa-Yj/s1600/arg-sat.png",Argentinísima
+http://mundo2.vip/live/OmarP/Omar2019/81318.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", 5TV
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712700.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", A24 | AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712701.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", A24 FHD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712702.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", America TV | AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712703.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", America TV FHD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712704.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", C5N FHD| AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712705.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", CRONICA
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712706.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Crónica TV  HD| AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712707.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", El Nueve
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712708.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", El Nueve HD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712709.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", El Trece
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712710.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", El Trece FHD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712711.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", La Nación + | AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712712.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", La Nación + HD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712713.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TELEFE
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712714.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Telefe FHD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712715.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TN Noticias
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712717.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TN NOTICIAS
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712718.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TV Publica
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712719.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TV Publica FHD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712720.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ARGENTINISIMA
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712721.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Canal 13 La Rioja
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712723.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Canal 26 | AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712724.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Canal 26 FHD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712725.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Canal 4 Posadas
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712726.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Canal 7 Jujuy
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712727.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Canal 9 Litoral
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712728.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", 13 Max HD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712730.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", CIUDAD MAGAZINE HD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712732.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", 5RTV Santa Fe
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712733.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Multivision HD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712734.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Neo TV
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712735.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", NET TV
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712736.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Paka Paka HD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712737.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", RTN Neuquén
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712739.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Telemax
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712740.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Volver HD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712741.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - TV Publica (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157586.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - TV Publica (Z)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157587.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - TV Pública (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157578.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - A24 (Z)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157613.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - America TV (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157612.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - America TV (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157624.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - America TV (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157623.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - America TV (TV)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157622.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Argentinisima (i)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157608.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - C5N (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157607.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - C5N (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157566.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Canal 13 (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157567.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Canal 26 (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157594.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Canal 26 (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157568.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Canal 9 (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157569.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Cinear (Z)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157601.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Ciudad Magazine (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157565.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Crónica TV (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157572.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Deportv (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157620.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - DeporTV (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157573.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - El Nueve (Z)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157595.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - El Nueve (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157621.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - El trece (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157591.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - LN + (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157592.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - LN+ (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157593.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - LN+ (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157574.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Metro (i)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157606.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Paka Paka (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157575.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Telefe (TV)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157590.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Telefe (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157589.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - Telefe Noticias (i)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157617.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", TELEFE
+http://peruplus.online:8080/live/gilbertoking/aZLwiv7TUB/712714.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Telefe FHD
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", TV Publica
+http://peruplus.online:8080/live/gilbertoking/aZLwiv7TUB/712719.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TV Publica FHD
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", Canal 7 Jujuy
+http://peruplus.online:8080/live/gilbertoking/aZLwiv7TUB/712727.m3u8
+
 
 
 # =========================
@@ -60,6 +227,46 @@ http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/418593.m3u8
 
 #EXTINF:-1 group-title="ESPN" tvg-id="espnpremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/960px-ESPN_Premium_logo.png",ESPN Premium
 http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/712747.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| AMERICA TV HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272038.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| AMERICA FHD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272039.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| EL NUEVE HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272040.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| EL NUEVE FHD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272041.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| EL TELEFE HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272042.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| TELEFE SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272043.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", AR: EL TRECE
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272044.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| TRECE  FHD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272045.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| 24/7 NOTICIAS HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272047.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| LA NACION HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272048.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| TN NOTICIAS HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272053.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| CRONICA HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272054.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| A24 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272055.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| TV PUBLICA  HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272059.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", CANAL 4
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272075.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", Jujuy tv
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272076.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG| C5N HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272077.m3u8
+
 
 
 # =========================
@@ -140,6 +347,633 @@ http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/167742.m3u8
 
 
 # =========================
+# 🌎 Prueba
+# =========================
+
+
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES 4K", ⚽ E$PN 2 4K
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/321176.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES 4K", ⚽ E$PN PREMIUM 4K
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/321169.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES 4K", ⚽ E$PN 6
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/321175.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES 4K", ⚽ E$PN 4 4K
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/321173.m3u
+#EXTINF:-1 tvg-id="" group-title="⚽ |  DSPORTS", DSports 2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316085.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ |  DSPORTS", DSports + ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316091.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243072.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243073.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 2 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243074.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 2 SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243075.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 3 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243076.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 3 SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243077.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 4 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243078.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 4 SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243079.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 5 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243080.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 5 SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243081.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 6 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243082.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 6 SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243083.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 7 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243084.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 7 SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243085.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN PREMIUM OPC 1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243086.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN PREMIUM HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243087.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", MX: ESPN HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243088.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN MEXICO SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243089.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", MX: ESPN 2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243090.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN 2 | MX ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243091.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN Mexico 3 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243092.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN  3 SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243093.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN Brasil
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243094.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN Brasil 2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243095.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN Brasil 3
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243096.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", MX :ESPN 3
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243097.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN DEPORTES 1 - USA
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243321.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN DEPORTES 2-USA
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/243322.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | ESPN PREMIUM", ESPN extra
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/245195.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports | AR ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316060.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports 2 | AR ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316068.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports 3 | AR ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316064.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", PL | FOX Premium HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316070.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports 1 | MX ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316069.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports 2 | MX ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316065.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports 3 | MX ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316061.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports 2 | CL ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316067.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports 3 | CL ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316063.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports | CL ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316047.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports 3 | PE ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316050.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", FOX Sports | PREMIUM
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316049.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | FOX SPORTS", Fox Sports 2 | 2MB LAT ❆
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/316053.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | BEIN SPORT", BEIN SPORTS XTRA Ñ
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/133630.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ | BEIN SPORT", BEIN SPORTS  HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/133632.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | BEIN SPORT", BEIN SPORTS XTRA Ñ HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/139889.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | BEIN SPORT", beIN SPORTS (D)
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/139890.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | BEIN SPORT", beIN SPORTS  ñ
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/139896.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | BEIN SPORT", BEIN SPORTS Ñ
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/139912.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ | DEPORTES PREMIUM HD - SD", TYC SPORTS HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/187371.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | DEPORTES PREMIUM HD - SD", DSPORTS
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/187374.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | DEPORTES PREMIUM HD - SD", DSPORTS 2 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/187377.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ | DEPORTES PREMIUM HD - SD", DSPORTS + HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/187379.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG | TNT SPORTS  FHD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272070.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG I T&C SPORTS SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272071.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG I T&C SPORTS INTERNA.
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272072.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG I T&C SPORTS  HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272073.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇦🇷 | ARGENTINA", ARG : DEPORTV  HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/272074.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", Tñt $p⚽rts hd
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/273598.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", TÑT $P⚽RTS SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/273599.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", TYC SP⚽RTS HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/273600.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", E$PN PREMIUM HD.
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/273602.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", ESPN
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/273604.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", F⚽X $P0RTS 1 SD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/273613.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", F⚽X $PORTS 2 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/273614.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽ DEPORTES ARGENTINA 🇦🇷", F⚽X  $P0RTS 3 HD
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/273616.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", Deportv | AR FHD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712742.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ESPN FHD | AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712743.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ESPN 2  FHD | AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712744.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ESPN 3 HD| AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712745.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ESPN 4 HD | AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712746.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ESPN Premium  | AR FHD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712747.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Fox Sports | AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712748.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Fox Sports 2  | AR FHD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712749.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Fox Sports 3  | AR FHD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712750.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Garage TV
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712751.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TNT Sports Premium
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712752.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TNT Sports Premium HD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712753.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TyC Sports
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712754.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TYC SPORTS HD
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712755.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", DSPORTS 1 ARG
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712756.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", DSPORTS 2 ARG
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/712757.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", DSPORTS +1 AR
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/722195.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TYC SPORTS INTERNACIONAL
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/722820.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - TyC Sports (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157583.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - TyC Sports (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157580.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - TyC Sports (TV)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157614.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - TNT Sports (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157585.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - TNT Sports (TV)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157584.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - DEPORTV (L)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157596.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - ESPN (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157558.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - ESPN 2 (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157559.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - ESPN 3 (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157560.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - ESPN 4 (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157561.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA", ARG - ESPN Premium (M)(720)
+http://vipxtreamx.com:8080/live/17n2B12n26Hz/0dc8be6dd63a/157562.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", DEP• TNT SPORTS AR (HD) »1«
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/653429.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", DEP• TYC SPORTS AR (HD) »1«
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/653432.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", DEP• TYC SPORTS AR (HD) »2«
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/653433.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", DEP• TYC SPORTS INTERNACIONAL AR (HD) »1«
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/653434.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | ESPN 1 ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825823.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | ESPN 1 ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825824.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | ESPN 2 ARG OPC1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825825.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | ESPN 3 ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825827.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | ESPN 3 ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825828.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | ESPN 4 ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825829.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | ESPN 5 SUR OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825831.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | ESPN 5 SUR  OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825832.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | ESPN PREMIUM ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825833.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | ESPN PREMIUM ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825834.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | Fox Sports 1 ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825835.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | Fox Sports 1 ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825836.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | Fox Sports 2 ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825837.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | Fox Sports 2 ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825838.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | Fox Sports 3 ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825839.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | Fox Sports 3 ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825840.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | DIRECTV SPORTS 1 ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825841.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | DIRECTV SPORTS 1 ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825842.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | DIRECTV SPORTS 2 ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825843.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | DIRECTV SPORTS 2 ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825844.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | DIRECTV SPORTS+ ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825845.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | DIRECTV SPORTS+ ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825846.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | TYC SPORTS ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825847.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | TYC SPORTS ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825848.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | TYC SPORTS INTERNACIONAL OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825849.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | TYC SPORTS INTERNACIONAL OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825850.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | TNT SPORTS ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825851.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | TNT SPORTS ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825852.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | TNT SPORTS PREMIUM ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825853.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | TNT SPORTS PREMIUM ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825854.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | DEPORTV ARG OPC 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825855.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚫ ARGENTINA DEPORTES", ARG D | DEPORTV ARG OPC 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/825856.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⬜ DIRECTV SPORT", DIRECTV SPORTS 1 ARGENTINA
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/826218.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ DIRECTV SPORT", DIRECTV SPORTS 2 ARGENTINA
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/826219.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ DIRECTV SPORT", DIRECTV SPORTS + ARGENTINA
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/826220.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⬜ TNT SPORT - TIGO SPORT", Tigo Sports HD
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/680036.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TNT SPORT - TIGO SPORT", Tigo Sports HD
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/680039.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TNT SPORT - TIGO SPORT", Tigo Sports HD
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/680042.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TNT SPORT - TIGO SPORT", Tigo Sports HD
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/680045.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TNT SPORT - TIGO SPORT", TNT SPORTS SD
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/681041.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TNT SPORT - TIGO SPORT", ▸ TNT Sports
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/822582.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TNT SPORT - TIGO SPORT", TNT SPORTS HD
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/681042.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TNT SPORT - TIGO SPORT", AR | TNT SPORTS SD
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/822585.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TNT SPORT - TIGO SPORT", AR | TNT SPORTS HD
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/822586.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⬜ TyC SPORT", TYC SPORTS OP1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/826269.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TyC SPORT", TYC SPORTS OP2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/826270.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TyC SPORT", TYC SPORTS INTERNACIONAL OP1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/826271.m3u8
+#EXTINF:-1 tvg-id="" group-title="⬜ TyC SPORT", TYC SPORTS INTERNACIONAL OP2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/826272.m3u8
+
+
+# =========================
+# 🌎 MUNDIAL FIFA 2026
+# =========================
+
+
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", Fase de Grupos - Jornada 1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439501.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 11 Jun 13:00  México vs Sudáfrica (Group A)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439502.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 11 Jun 13:00  México vs Sudáfrica (Group A)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439503.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 11 Jun 20:00  Corea del Sur vs República Checa (Group A)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439504.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 11 Jun 20:00  Corea del Sur vs República Checa (Group A)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439505.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 12 Jun 13:00  Canadá vs Bosnia & Herzegovina (Group B)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439506.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 12 Jun 13:00  Canadá vs Bosnia & Herzegovina (Group B)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439507.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 12 Jun 19:00  Estados Unidos vs Paraguay (Group D)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439508.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 12 Jun 19:00  Estados Unidos vs Paraguay (Group D)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439509.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 13 Jun 13:00  Catar vs Suiza (Group B)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439510.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 13 Jun 13:00  Catar vs Suiza (Group B)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439511.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 13 Jun 16:00  Brasil vs Marruecos (Group C)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439512.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 13 Jun 16:00  Brasil vs Marruecos (Group C)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439513.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 13 Jun 19:00  Haití vs Escocia (Group C)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439514.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 13 Jun 19:00  Haití vs Escocia (Group C)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439515.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 13 Jun 22:00  Australia vs Turquía (Group D)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439516.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 13 Jun 22:00  Australia vs Turquía (Group D)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439517.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 14 Jun 11:00  Alemania vs Curazao (Group E)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439518.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 14 Jun 11:00  Alemania vs Curazao (Group E)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439519.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 14 Jun 14:00  Países Bajos vs Japón (Group F)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439520.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 14 Jun 14:00  Países Bajos vs Japón (Group F)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439521.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 14 Jun 17:00  Costa de Marfil vs Ecuador (Group E)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439522.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 14 Jun 17:00  Costa de Marfil vs Ecuador (Group E)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439523.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 14 Jun 20:00  Suecia vs Túnez (Group F)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439524.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 14 Jun 20:00  Suecia vs Túnez (Group F)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439525.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 15 Jun 10:00  España vs Cabo Verde (Group H)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439526.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 15 Jun 10:00  España vs Cabo Verde (Group H)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439527.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 15 Jun 13:00  Bélgica vs Egipto (Group G)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439528.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 15 Jun 13:00  Bélgica vs Egipto (Group G)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439529.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 15 Jun 16:00  Arabia Saudita vs Uruguay (Group H)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439530.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 15 Jun 16:00  Arabia Saudita vs Uruguay (Group H)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439531.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 15 Jun 19:00  Irán vs Nueva Zelanda (Group G)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439532.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 15 Jun 19:00  Irán vs Nueva Zelanda (Group G)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439533.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 16 Jun 13:00  Francia vs Senegal (Group I)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439534.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 16 Jun 13:00  Francia vs Senegal (Group I)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439535.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 16 Jun 16:00  Irak vs Noruega (Group I)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439536.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 16 Jun 16:00  Irak vs Noruega (Group I)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439537.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 16 Jun 19:00  Argentina vs Argelia (Group J)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439538.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 16 Jun 19:00  Argentina vs Argelia (Group J)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439539.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 16 Jun 22:00  Austria vs Jordania (Group J)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439540.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 16 Jun 22:00  Austria vs Jordania (Group J)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439541.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 17 Jun 11:00  Portugal vs RD Congo (Group K)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439542.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 17 Jun 11:00  Portugal vs RD Congo (Group K)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439543.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 17 Jun 14:00  Inglaterra vs Croacia (Group L)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439544.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 17 Jun 14:00  Inglaterra vs Croacia (Group L)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439545.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 17 Jun 17:00  Ghana vs Panamá (Group L)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439546.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 17 Jun 17:00  Ghana vs Panamá (Group L)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439547.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 17 Jun 20:00  Uzbekistán vs Colombia (Group K)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439548.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 17 Jun 20:00  Uzbekistán vs Colombia (Group K)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439549.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", Fase de Grupos - Jornada 2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439550.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 18 Jun 10:00  República Checa vs Sudáfrica (Group A)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439551.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 18 Jun 10:00  República Checa vs Sudáfrica (Group A)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439552.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 18 Jun 13:00  Suiza vs Bosnia & Herzegovina (Group B)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439553.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 18 Jun 13:00  Suiza vs Bosnia & Herzegovina (Group B)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439554.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 18 Jun 16:00  Canadá vs Catar (Group B)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439555.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 18 Jun 16:00  Canadá vs Catar (Group B)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439556.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 18 Jun 19:00  México vs Corea del Sur (Group A)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439557.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 18 Jun 19:00  México vs Corea del Sur (Group A)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439558.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 19 Jun 13:00  Estados Unidos vs Australia (Group D)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439559.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 19 Jun 13:00  Estados Unidos vs Australia (Group D)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439560.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 19 Jun 16:00  Escocia vs Marruecos (Group C)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439561.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 19 Jun 16:00  Escocia vs Marruecos (Group C)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439562.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 19 Jun 18:30  Brasil vs Haití (Group C)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439563.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 19 Jun 18:30  Brasil vs Haití (Group C)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439564.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 19 Jun 21:00  Turquía vs Paraguay (Group D)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439565.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 19 Jun 21:00  Turquía vs Paraguay (Group D)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439566.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 11:00  Países Bajos vs Suecia (Group F)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439567.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 11:00  Países Bajos vs Suecia (Group F)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439568.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 14:00  Alemania vs Costa de Marfil (Group E)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439569.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 14:00  Alemania vs Costa de Marfil (Group E)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439570.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 18:00  Ecuador vs Curazao (Group E)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439571.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 18:00  Ecuador vs Curazao (Group E)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439572.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 22:00  Túnez vs Japón (Group F)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439573.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 20 Jun 22:00  Túnez vs Japón (Group F)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439574.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 21 Jun 10:00  España vs Arabia Saudita (Group H)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439575.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 21 Jun 10:00  España vs Arabia Saudita (Group H)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439576.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 21 Jun 13:00  Bélgica vs Irán (Group G)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439577.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 21 Jun 13:00  Bélgica vs Irán (Group G)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439578.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 21 Jun 16:00  Uruguay vs Cabo Verde (Group H)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439579.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 21 Jun 16:00  Uruguay vs Cabo Verde (Group H)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439580.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 21 Jun 19:00  Nueva Zelanda vs Egipto (Group G)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439581.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 21 Jun 19:00  Nueva Zelanda vs Egipto (Group G)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439582.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 22 Jun 11:00  Argentina vs Austria (Group J)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439583.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 22 Jun 11:00  Argentina vs Austria (Group J)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439584.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 22 Jun 15:00  Francia vs Irak (Group I)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439585.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 22 Jun 15:00  Francia vs Irak (Group I)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439586.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 22 Jun 18:00  Noruega vs Senegal (Group I)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439587.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 22 Jun 18:00  Noruega vs Senegal (Group I)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439588.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 22 Jun 21:00  Jordania vs Argelia (Group J)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439589.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 22 Jun 21:00  Jordania vs Argelia (Group J)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439590.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 23 Jun 11:00  Portugal vs Uzbekistán (Group K)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439591.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 23 Jun 11:00  Portugal vs Uzbekistán (Group K)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439592.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 23 Jun 14:00  Inglaterra vs Ghana (Group L)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439593.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 23 Jun 14:00  Inglaterra vs Ghana (Group L)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439594.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 23 Jun 17:00  Panamá vs Croacia (Group L)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439595.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 23 Jun 17:00  Panamá vs Croacia (Group L)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439596.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 23 Jun 20:00  Colombia vs RD Congo (Group K)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439597.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 23 Jun 20:00  Colombia vs RD Congo (Group K)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439598.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", Fase de Grupos - Jornada 3
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439599.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 13:00  Suiza vs Canadá (Group B)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439600.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 13:00  Suiza vs Canadá (Group B)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439601.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 13:00  Bosnia & Herzegovina vs Catar (Group B)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439602.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 13:00  Bosnia & Herzegovina vs Catar (Group B)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439603.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 16:00  Marruecos vs Haití (Group C)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439604.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 16:00  Marruecos vs Haití (Group C)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439605.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 16:00  Escocia vs Brasil (Group C)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439606.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 16:00  Escocia vs Brasil (Group C)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439607.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 19:00  República Checa vs México (Group A)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439608.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 19:00  República Checa vs México (Group A)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439609.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 19:00  Sudáfrica vs Corea del Sur (Group A)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439610.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 24 Jun 19:00  Sudáfrica vs Corea del Sur (Group A)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439611.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 14:00  Ecuador vs Alemania (Group E)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439612.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 14:00  Ecuador vs Alemania (Group E)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439613.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 14:00  Curazao vs Costa de Marfil (Group E)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439614.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 14:00  Curazao vs Costa de Marfil (Group E)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439615.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 17:00  Japón vs Suecia (Group F)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439616.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 17:00  Japón vs Suecia (Group F)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439617.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 17:00  Túnez vs Países Bajos (Group F)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439618.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 17:00  Túnez vs Países Bajos (Group F)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439619.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 20:00  Turquía vs Estados Unidos (Group D)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439620.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 20:00  Turquía vs Estados Unidos (Group D)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439621.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 20:00  Paraguay vs Australia (Group D)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439622.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 25 Jun 20:00  Paraguay vs Australia (Group D)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439623.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 13:00  Senegal vs Irak (Group I)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439624.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 13:00  Senegal vs Irak (Group I)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439625.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 13:00  Noruega vs Francia (Group I)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439626.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 13:00  Noruega vs Francia (Group I)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439627.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 18:00  Uruguay vs España (Group H)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439628.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 18:00  Uruguay vs España (Group H)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439629.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 18:00  Cabo Verde vs Arabia Saudita (Group H)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439630.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 18:00  Cabo Verde vs Arabia Saudita (Group H)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439631.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 21:00  Egipto vs Irán (Group G)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439632.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 21:00  Egipto vs Irán (Group G)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439633.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 21:00  Nueva Zelanda vs Bélgica (Group G)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439634.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 26 Jun 21:00  Nueva Zelanda vs Bélgica (Group G)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439635.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 15:00  Croacia vs Ghana (Group L)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439636.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 15:00  Croacia vs Ghana (Group L)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439637.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 15:00  Panamá vs Inglaterra (Group L)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439638.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 15:00  Panamá vs Inglaterra (Group L)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439639.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 17:30  Colombia vs Portugal (Group K)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439640.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 17:30  Colombia vs Portugal (Group K)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439641.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 17:30  RD Congo vs Uzbekistán (Group K)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439642.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 17:30  RD Congo vs Uzbekistán (Group K)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439643.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 20:00  Argelia vs Austria (Group J)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439644.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 20:00  Argelia vs Austria (Group J)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439645.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 20:00  Jordania vs Argentina (Group J)  op1
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439646.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏆 | MUNDIAL FIFA 2026| ⚽ ⭐", 27 Jun 20:00  Jordania vs Argentina (Group J)  op2
+http://libertadtv.lat:8080/live/Omarprosop/1347339e05/439647.m3u8
+
+
+
+# =========================
 # ⭐ Gran Hermano
 # =========================
 
@@ -148,3 +982,30 @@ http://deluxe-tv.site:8880/live/chris418usa/wu4e69euq/749367.m3u8
 
 #EXTINF:-1 group-title="EVENTOS" tvg-id="GranHermano1" tvg-logo="https://www.mdzol.com/u/fotografias/m/2022/12/10/f1280x720-1330492_1462167_5050.jpg",Gran Hermano 1
 http://planettvweb.com:8091/live/virginiarodriguez/AAHHMP/116384.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", GRAN HERMANO CAM 1
+http://mundo2.vip/live/OmarP/Omar2019/454927.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", GRAN HERMANO CAM 2 [0ndeman]
+http://mundo2.vip/live/OmarP/Omar2019/454928.m3u8
+#EXTINF:-1 tvg-id="" group-title="⭐ Gran Hermano", GRAN HERMANO CAM 3 [0ndemand]
+http://mundo2.vip/live/OmarP/Omar2019/454929.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="GRAN HERMANO ARGENTINA", GRAN HERMANO 24/7
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/749367.m3u8
+#EXTINF:-1 tvg-id="" group-title="GRAN HERMANO ARGENTINA", GRAN HERMANO CAM 1
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/749368.m3u8
+#EXTINF:-1 tvg-id="" group-title="GRAN HERMANO ARGENTINA", GRAN HERMANO CAM 2
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/749369.m3u8
+#EXTINF:-1 tvg-id="" group-title="GRAN HERMANO ARGENTINA", GRAN HERMANO CAM 3
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/749370.m3u8
+#EXTINF:-1 tvg-id="" group-title="GRAN HERMANO ARGENTINA", GRAN HERMANO MULTICAMARA
+http://tv-max.online/live/Limacolombia2025/E7sRFtAnv9/749371.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="®️  GRAN HERMANO ARGENTINA", GRAN HERMANO Argentina
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/822688.m3u8
+#EXTINF:-1 tvg-id="" group-title="®️  GRAN HERMANO ARGENTINA", GRAN HERMANO 1
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/822689.m3u8
+#EXTINF:-1 tvg-id="" group-title="®️  GRAN HERMANO ARGENTINA", GRAN HERMANO 2
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/822690.m3u8
+#EXTINF:-1 tvg-id="" group-title="®️  GRAN HERMANO ARGENTINA", GRAN HERMANO 4
+http://saiyancorp.lat/live/Pablo843ecx/LigaPro942pa/822691.m3u8
