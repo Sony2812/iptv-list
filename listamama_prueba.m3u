@@ -70,7 +70,7 @@ http://mundo2.vip/live/OmarP/Omar2019/317043.m3u8
 http://mundo2.vip/live/OmarP/Omar2019/316360.m3u8
 #EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="warnertv.la" tvg-logo="https://brand.wbd.com/wp-content/uploads/2024/05/warner-bros-television-logo-rendered-min.png",Warner TV
 http://mundo2.vip/live/OmarP/Omar2019/316370.m3u8
-#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="axn.la" tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png",AXN
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="axn.la" tvg-logo="https://seeklogo.com/images/A/AXN-logo-3B0F9D9BDD-seeklogo.com.png",AXN
 http://mundo2.vip/live/OmarP/Omar2019/316363.m3u8
 #EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="calle13.la" tvg-logo="https://seeklogo.com/images/C/calle-13-logo-4D6F460818-seeklogo.com.png",Calle 13
 http://mundo2.vip/live/OmarP/Omar2019/316374.m3u8
@@ -82,82 +82,54 @@ http://mundo2.vip/live/OmarP/Omar2019/316380.m3u8
 http://mundo2.vip/live/OmarP/Omar2019/316385.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | La Que No Podia Amar
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.laquenopodiaamar" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | La Que No Podía Amar
 http://mundo2.vip/live/OmarP/Omar2019/374881.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | La Fea Mas Bella
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.lafeamasbella" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | La Fea Más Bella
 http://mundo2.vip/live/OmarP/Omar2019/374882.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | Amor Real
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.amorreal" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | Amor Real
 http://mundo2.vip/live/OmarP/Omar2019/374883.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | Amor Bravio
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.amorbravio" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | Amor Bravio
 http://mundo2.vip/live/OmarP/Omar2019/374884.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | Mi Corazon es Tuyo
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.micorazonestuyo" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | Mi Corazón es Tuyo
 http://mundo2.vip/live/OmarP/Omar2019/374885.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | Teresa
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.teresa" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | Teresa
 http://mundo2.vip/live/OmarP/Omar2019/374886.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | Triunfo del Amor
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.triunfodelamor" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | Triunfo del Amor
 http://mundo2.vip/live/OmarP/Omar2019/374887.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | Rebelde
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.rebelde" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | Rebelde
 http://mundo2.vip/live/OmarP/Omar2019/374888.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | Nosotros Los Guapos
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.nosotroslosguapos" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | Nosotros Los Guapos
 http://mundo2.vip/live/OmarP/Omar2019/374889.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | La Rosa de Guadalupe
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.larosadeguadalupe" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | La Rosa de Guadalupe
 http://mundo2.vip/live/OmarP/Omar2019/374890.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | Amor Real
-http://mundo2.vip/live/OmarP/Omar2019/374894.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | Las Estrellas
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.lasestrellas" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | Las Estrellas
 http://mundo2.vip/live/OmarP/Omar2019/374895.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | Lo que la vida me robo
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.loquelavidamerobo" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | Lo Que La Vida Me Robó
 http://mundo2.vip/live/OmarP/Omar2019/374896.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | 40 Y 20
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="vix.40y20" tvg-logo="https://sadesign.ai/pictures/picfullsizes/2024/12/14/vou1734162756.jpg",VIX Premium | 40 y 20
 http://mundo2.vip/live/OmarP/Omar2019/374897.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", M+Clasicos FHD |opc-2|
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="movistar.clasicos" tvg-logo="https://www.cine.com/media/canales/es/909_hd.png",M+ Clásicos FHD
 http://mundo2.vip/live/OmarP/Omar2019/315727.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", M+Acción FHD |opc-1|
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="movistar.accion" tvg-logo="https://ww2.movistar.cl/hogar/paso-a-paso/img/nuevo-logo-movistar-tv.png",M+ Acción
 http://mundo2.vip/live/OmarP/Omar2019/315729.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", M+Comedia FHD |opc-1|
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="movistar.comedia" tvg-logo="https://ww2.movistar.cl/hogar/paso-a-paso/img/nuevo-logo-movistar-tv.png",M+ Comedia FHD
 http://mundo2.vip/live/OmarP/Omar2019/315732.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", M+Drama FHD |opc-1|
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="movistar.drama" tvg-logo="https://ww2.movistar.cl/hogar/paso-a-paso/img/nuevo-logo-movistar-tv.png",M+ Drama FHD
 http://mundo2.vip/live/OmarP/Omar2019/315736.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", M+Indie FHD |opc-1|
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="movistar.indie" tvg-logo="https://ww2.movistar.cl/hogar/paso-a-paso/img/nuevo-logo-movistar-tv.png",M+ Indie FHD
 http://mundo2.vip/live/OmarP/Omar2019/315740.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", AMC FHD |opc-1|
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="amc.la" tvg-logo="https://logos-world.net/wp-content/uploads/2022/03/AMC-Theatres-Logo.jpg",AMC
 http://mundo2.vip/live/OmarP/Omar2019/315759.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", AXN FHD |opc-1|
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="axn.la" tvg-logo="https://seeklogo.com/images/A/AXN-logo-3B0F9D9BDD-seeklogo.com.png",AXN
 http://mundo2.vip/live/OmarP/Omar2019/315762.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", AXN Movies FHD |opc-1|
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="axnmovies.la" tvg-logo="https://seeklogo.com/images/A/AXN-logo-3B0F9D9BDD-seeklogo.com.png",AXN Movies
 http://mundo2.vip/live/OmarP/Omar2019/315765.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", Calle 13 FHD |opc-1|
-http://mundo2.vip/live/OmarP/Omar2019/315767.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", Dark FHD |opc-1|
-http://mundo2.vip/live/OmarP/Omar2019/315771.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", STAR Channel FHD |opc-1|
-http://mundo2.vip/live/OmarP/Omar2019/315776.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", Star Channel HD
-http://mundo2.vip/live/OmarP/Omar2019/315779.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", Warner TV FHD |opc-1|
-http://mundo2.vip/live/OmarP/Omar2019/315780.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", Syfy FHD |opc-1|
-http://mundo2.vip/live/OmarP/Omar2019/315784.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", TCM FHD |opc-1|
-http://mundo2.vip/live/OmarP/Omar2019/315792.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", Somos FHD |opc-1|
-http://mundo2.vip/live/OmarP/Omar2019/315795.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", Sundance FHD |opc-1|
-http://mundo2.vip/live/OmarP/Omar2019/315797.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", M+LOS GOYA FHD |opc-1|
-http://mundo2.vip/live/OmarP/Omar2019/315715.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", FX
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="fx.la" tvg-logo="https://seeklogo.com/images/F/fx-logo-D0E42903C8-seeklogo.com.png",FX
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/317527.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", GOLDEN LATINO
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="golden.la" tvg-logo="https://images.seeklogo.com/logo-png/31/2/golden-tv-logo-png_seeklogo-314669.png",Golden Latino
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/317529.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", TELEHIT LATINO
-http://mundo2.vip/live/DanielCuji28/Gabriel2908/317558.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", TELEMUNDO
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="telemundo.us" tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo.png",Telemundo
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/317560.m3u8
-
 
 # =========================
 # ⭐ TELENOVELAS
