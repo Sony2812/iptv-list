@@ -135,53 +135,40 @@ http://mundo2.vip/live/DanielCuji28/Gabriel2908/317560.m3u8
 # ⭐ TELENOVELAS
 # =========================
 
-#EXTINF:-1 tvg-id="" group-title="⭐ Telenovelas", PASIONES
-http://mundo2.vip/live/DanielCuji28/Gabriel2908/317548.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | A3S
-http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135427.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | AZ CORAZON
-http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135429.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | Canal 5
-http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135430.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | Canal De Las Estrellas
-http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135431.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | Glitz
-http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135432.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | Pasiones
-http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135435.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Latino | TLNovelas
-http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135436.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TL Novelas Univision
-http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135439.m3u8
+# =========================
+# ⭐ Telenovelas
+# =========================
 
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TELENOVELAS HD
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="pasiones.la" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.nZCXZbzl91XWhLqvusoJAwHaEc?pid=Api&P=0&h=180",Pasiones
+http://mundo2.vip/live/DanielCuji28/Gabriel2908/317548.m3u8
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="a3series.es" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.BkFB45gRAqy4aU0Yr6iydgHaFC?pid=Api&P=0&h=180",A3 Series
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135427.m3u8
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="azcorazon.mx" tvg-logo="https://mplay.es/images/2020/canales-azcorazon.png",AZ Corazón
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135429.m3u8
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="canal5.mx" tvg-logo="https://vignette1.wikia.nocookie.net/doblaje/images/b/b8/Logotipo_actual_del_canal_5_(mexico).png/revision/latest?cb=20140605050419&path-prefix=es",Canal 5
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135430.m3u8
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="lasestrellas.mx" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.jpg",Las Estrellas
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135431.m3u8
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="glitz.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png",Glitz
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135432.m3u8
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="pasiones.la" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.nZCXZbzl91XWhLqvusoJAwHaEc?pid=Api&P=0&h=180",Pasiones
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135435.m3u8
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="tlnovelas.mx" tvg-logo="https://conexion360.mx/wp-content/uploads/2020/01/FOTO-WEB-TNL-NOVELAS.jpg",TLNovelas
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135436.m3u8
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="tlnovelas.univision" tvg-logo="https://conexion360.mx/wp-content/uploads/2020/01/FOTO-WEB-TNL-NOVELAS.jpg",TL Novelas Univision
+http://starlatino.tv:8880/live/Mabel.vera/N625w7c3fRtx/135439.m3u8
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="telenovelas.hd" tvg-logo="https://conexion360.mx/wp-content/uploads/2020/01/FOTO-WEB-TNL-NOVELAS.jpg",Telenovelas HD
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/360898.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TLNOVELAS HD
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="tlnovelas.hd" tvg-logo="https://conexion360.mx/wp-content/uploads/2020/01/FOTO-WEB-TNL-NOVELAS.jpg",TLNovelas HD
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/360896.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TL NOVELAS HD
-http://mundo2.vip/live/DanielCuji28/Gabriel2908/360905.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TELENOVELAS HD
-http://mundo2.vip/live/DanielCuji28/Gabriel2908/93368.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", RCN TELENOVELAS HD
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="rcnnovelas.co" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Gi3tQPRCnrGARpgAjcJy1AHaFm?pid=Api&P=0&h=180,RCN Telenovelas HD
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/360902.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", RCN NOVELAS HD
-http://mundo2.vip/live/DanielCuji28/Gabriel2908/100288.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TNT NOVELAS
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="tntnovelas.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/360894.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TNT NOVELAS HD
-http://mundo2.vip/live/DanielCuji28/Gabriel2908/99829.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", TNT NOVELAS HD
-http://mundo2.vip/live/DanielCuji28/Gabriel2908/360893.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", KANAL D Drama HD
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="kanald.drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kanal_D_logo.svg",Kanal D Drama HD
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/360895.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", KANAL D Novelas HD
+#EXTINF:-1 group-title="⭐ Telenovelas" tvg-id="kanald.novelas" tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74",Kanal D Novelas HD
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/360897.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", PASIONES HD
-http://mundo2.vip/live/DanielCuji28/Gabriel2908/360891.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", PASIONES HD.
-http://mundo2.vip/live/DanielCuji28/Gabriel2908/360892.m3u8
-#EXTINF:-1 tvg-id="" group-title="⭐️ Telenovelas", Telenovelas Unv* HD
-http://mundo2.vip/live/DanielCuji28/Gabriel2908/360903.m3u8
 
 
 # =========================
