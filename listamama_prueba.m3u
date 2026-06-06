@@ -18,7 +18,7 @@ http://rlatinop.com:8880/live/Victor.neira/jfMzDjcVQRfH/360498.m3u8
 http://mundo2.vip/live/OmarP/Omar2019/81273.m3u8
 #EXTINF:-1 group-title="⭐ TV Argentina" tvg-id="tn.ar"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s223/tn.png",TN
 http://mundo2.vip/live/OmarP/Omar2019/81325.m3u8
-#EXTINF:-1 group-title="⭐ TV Argentina" tvg-id="canal26.ar"https://blogger.googleusercontent.com/img/a/AVvXsEgjYWCgWa9xUv8yHEUtK4gD_gdQ4bMlbi3zcYk3u1ors-f2EK6HAAp-9OA-vCgfJ4A0fuJBzsCF8mE1iWSkBTyar4m06s3D7aLO0n_ywscCB5DNS4MwvGQBqPE1ZaC0qpEb7MnMY_BkMkyXfgiBS8rj0JSBkyINCmNvZ93XWOBijbyrqsCSfR8NoWNv=s1200",Canal 26 Noticias
+#EXTINF:-1 group-title="⭐ TV Argentina" tvg-id="canal26.ar"tvg-logo="https://images.seeklogo.com/logo-png/46/2/canal-26-logo-png_seeklogo-463133.png",Canal 26 Noticias
 http://mundo2.vip/live/OmarP/Omar2019/81310.m3u8
 #EXTINF:-1 group-title="⭐ TV Argentina" tvg-id="argentinisima.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhsN1pf3l44x7LbOWFp5VT4AUq_Ke5qT6N_uC71RLvzjDXAtCyXfLx8Z7F8M7h-q_Uq6rW6c2R8VD4cbYcufpV3nHv_OYxkorSLdwLuDWJpwSq0sfU6dwc5HUeELRB1dM8-tYCSWxPa-Yj/s1600/arg-sat.png",Argentinísima
 http://mundo2.vip/live/OmarP/Omar2019/81318.m3u8
@@ -43,9 +43,9 @@ http://mundo2.vip/live/OmarP/Omar2019/132712.m3u8
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/317550.m3u8
 #EXTINF:-1 group-title="⭐ Canales Infantiles" tvg-id="nickjr" tvg-logo="https://images.seeklogo.com/logo-png/35/2/nick-jr-logo-png_seeklogo-355677.png",Nick Jr
 http://mundo2.vip/live/OmarP/Omar2019/132696.m3u8
-#EXTINF:-1 group-title="⭐ Canales Infantiles" tvg-id="cartoonnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Cartoon_Network_2010_logo.svg",Cartoon Network
+#EXTINF:-1 group-title="⭐ Canales Infantiles" tvg-id="cartoonnetwork" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Logo-2004-2010.png",Cartoon Network
 http://mundo2.vip/live/OmarP/Omar2019/132707.m3u8
-#EXTINF:-1 group-title="⭐ Canales Infantiles" tvg-id="cartoonito" tvg-logo="https://images.seeklogo.com/logo-png/67/2/cartoonito-2017-logo-png_seeklogo-675010.png",Cartoonito
+#EXTINF:-1 group-title="⭐ Canales Infantiles" tvg-id="cartoonito" tvg-logo="https://shapes.inc/_next/image?url=https:%2F%2Fsxhodsrixg8meuri.public.blob.vercel-storage.com%2Ffandom-lore%2Fcharacters%2Fcartoonito%2Ffandom-hero-ba62d19de54a.jpg&w=3840&q=75",Cartoonito
 http://mundo2.vip/live/OmarP/Omar2019/132708.m3u8
 #EXTINF:-1 group-title="⭐ Canales Infantiles" tvg-id="zoomoo" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",ZooMoo
 http://mundo2.vip/live/DanielCuji28/Gabriel2908/317569.m3u8
@@ -62,25 +62,26 @@ http://mundo2.vip/live/OmarP/Omar2019/316358.m3u8
 http://mundo2.vip/live/OmarP/Omar2019/317032.m3u8
 #EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="paramountplus.channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Paramount_Plus.svg",Paramount+ FHD
 http://mundo2.vip/live/OmarP/Omar2019/317033.m3u8
-#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="cinemavip01" tvg-logo="https://cdn-icons-png.flaticon.com/512/3418/3418886.png",Cinema VIP 01 FHD
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="cinemavip01" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/142/292/original/modern-abstract-cinema-film-strip-logo-design-luxury-cinematography-logo-brand-vector.jpgCinema VIP 01 FHD
 http://mundo2.vip/live/OmarP/Omar2019/317035.m3u8
-#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="cinemavip09" tvg-logo="https://cdn-icons-png.flaticon.com/512/3418/3418886.png",Cinema VIP 09 FHD
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="cinemavip09" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/142/292/original/modern-abstract-cinema-film-strip-logo-design-luxury-cinematography-logo-brand-vector.jpg",Cinema VIP 09 FHD
 http://mundo2.vip/live/OmarP/Omar2019/317043.m3u8
-#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="starchannel.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Star_Channel_Logo_2021.svg",Star Channel FHD
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="starchannel.la" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png",Star Channel
 http://mundo2.vip/live/OmarP/Omar2019/316360.m3u8
-#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="warnertv.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Warner_TV_logo.svg",Warner TV FHD
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="warnertv.la" tvg-logo="https://brand.wbd.com/wp-content/uploads/2024/05/warner-bros-television-logo-rendered-min.png",Warner TV
 http://mundo2.vip/live/OmarP/Omar2019/316370.m3u8
-#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="axn.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/AXN_logo_%282015%29.svg",AXN FHD
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="axn.la" tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png",AXN
 http://mundo2.vip/live/OmarP/Omar2019/316363.m3u8
-#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="calle13.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Calle_13_logo.svg",Calle 13 FHD
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="calle13.la" tvg-logo="https://seeklogo.com/images/C/calle-13-logo-4D6F460818-seeklogo.com.png",Calle 13
 http://mundo2.vip/live/OmarP/Omar2019/316374.m3u8
-#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="syfy.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Syfy_logo_2017.svg",Syfy FHD
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="syfy.la" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Syfy-Logo-2009-500x281.png",Syfy
 http://mundo2.vip/live/OmarP/Omar2019/316376.m3u8
-#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="comedycentral.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Comedy_Central_2024.svg",Comedy Central FHD
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="comedycentral.la" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png",Comedy Central
 http://mundo2.vip/live/OmarP/Omar2019/316380.m3u8
-
-#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="cosmo.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/COSMO_logo.svg",Cosmo FHD
+#EXTINF:-1 group-title="⭐ Canales DE Peliculas y Series" tvg-id="cosmo.es" tvg-logo="https://png.pngitem.com/pimgs/s/26-269198_cosmopolitan-tv-logo-png-transparent-png.png",Cosmo TV
 http://mundo2.vip/live/OmarP/Omar2019/316385.m3u8
+
+
 #EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | La Que No Podia Amar
 http://mundo2.vip/live/OmarP/Omar2019/374881.m3u8
 #EXTINF:-1 tvg-id="" group-title="⭐ Canales DE Peliculas y Series", VIX Premium | La Fea Mas Bella
