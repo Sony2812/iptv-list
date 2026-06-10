@@ -2,6 +2,7 @@
 
 # =========================
 # ⭐ TV Argentina
+
 # =========================
 
 #EXTINF:-1 group-title="⭐ TV Argentina" tvg-id="tvpublica.ar" tvg-logo="https://images.seeklogo.com/logo-png/46/1/tv-publica-argentina-2014-logo-png_seeklogo-462615.png",TV Pública
@@ -1650,3 +1651,45 @@ http://mundo2.vip/movie/DanielCuji28/Gabriel2908/468010.mp4
 http://mundo2.vip/movie/DanielCuji28/Gabriel2908/468009.mp4
 #EXTINF:-1 tvg-id="" group-title="⭐ PELICULAS", Qu Pas Ayer Parte III (2013)
 http://mundo2.vip/movie/DanielCuji28/Gabriel2908/468008.mp4
+
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", ARG | TYC SPORTS HD
+http://tvlatinaplus.com/live/12mayke89/89espinoza12/8253.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ARG | TYC SPORTS INTERNACIONAL HD
+http://tvlatinaplus.com/live/12mayke89/89espinoza12/8254.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ARG | TELEFE (2)
+http://tvlatinaplus.com/live/12mayke89/89espinoza12/91198.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ARG | TELEFE (3)
+http://tvlatinaplus.com/live/12mayke89/89espinoza12/91199.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ARG | TELEFE HD
+http://tvlatinaplus.com/live/12mayke89/89espinoza12/91783.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ARG | TYC SPORTS*
+http://tvlatinaplus.com/live/12mayke89/89espinoza12/91202.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", TELEFE
+http://son1kids.online/live/LuisCabrera.2025/3qTq3FrS94/712714.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Telefe FHD
+http://son1kids.online/live/LuisCabrera.2025/3qTq3FrS94/712715.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", DSPORTS 1 ARG
+http://son1kids.online/live/LuisCabrera.2025/3qTq3FrS94/712756.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", DSPORTS 2 ARG
+http://son1kids.online/live/LuisCabrera.2025/3qTq3FrS94/712757.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", DSPORTS +1 AR
+http://son1kids.online/live/LuisCabrera.2025/3qTq3FrS94/722195.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", TELEFE INTERNACIONAL SD
+http://planettvweb.com:8091/live/JavierG/DNar3048d/11858.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TELEFE SD 1
+http://planettvweb.com:8091/live/JavierG/DNar3048d/11840.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TELEFE HD
+http://planettvweb.com:8091/live/JavierG/DNar3048d/11879.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TELEFE HD ARG
+http://planettvweb.com:8091/live/JavierG/DNar3048d/16274.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", Directv Sports HD (AR)
+http://ak-47scan.dyndns.tv:25461/live/SelenNT/7MZw58Q66C6E/3806.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Argentina", Telefe HD (AR) Encoder
+http://ak-47scan.dyndns.tv:25461/live/SelenNT/7MZw58Q66C6E/3796.m3u8
